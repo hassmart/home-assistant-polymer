@@ -1,9 +1,9 @@
 from setuptools import setup, find_packages
 
-setup(name='home-assistant-frontend',
+setup(name='hassmart-home-assistant-frontend',
       version='20171206.0',
-      description='The Home Assistant frontend',
-      url='https://github.com/home-assistant/home-assistant-polymer',
+      description='The Hassmart frontend, powered by homeassistant',
+      url='https://github.com/hassmart/home-assistant-polymer',
       author='The Home Assistant Authors',
       author_email='hello@home-assistant.io',
       license='Apache License 2.0',
